@@ -41,7 +41,7 @@ echo "<pre>";
 echo(var_dump($name));
 echo "</pre>";
 
-//d. Booléen (bool| boolean)
+//d. -Booléen (bool| boolean)
 $disponible = true;  //ou  $disponible =false
 
 echo "<pre>";
