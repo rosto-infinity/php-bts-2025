@@ -7,5 +7,8 @@
 </head>
 <body>
   <h1> Introduction à PHP</h1>
+
+  <a href="index.php">Cours-php-bts 2025</a> <br> <br>
+  <a href="01datatype.php">Les types de données en PHP</a><br> <br>
 </body>
 </html>
