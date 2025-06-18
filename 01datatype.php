@@ -49,7 +49,7 @@ echo(var_dump($disponible));
 echo "</pre>";
 
 /*
- ********   1. Types composés ****
+ ********   1. -Types composés ****
  * 
 */
 
