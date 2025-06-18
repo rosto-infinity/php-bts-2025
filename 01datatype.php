@@ -53,7 +53,7 @@ echo "</pre>";
  * 
 */
 
-//a. Tableau (array)
+//a. -Tableau (array)
 //---  indexé (0,1,2...)
 $colors = ["green", "yellow", "red"];
 echo "<pre>";
