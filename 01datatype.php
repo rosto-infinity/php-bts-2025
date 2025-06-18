@@ -74,7 +74,7 @@ echo "<pre>";
 echo(var_dump($fruits));
 echo "</pre>";
 
-//Tableau associatif
+//-Tableau associatif
 $person =[
   "name" => "Myra",
   "date" => 10,
