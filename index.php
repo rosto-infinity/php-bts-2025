@@ -14,6 +14,7 @@
   <a href="03numbers.php"> 03 - Les nombres</a><br> <br>
   <a href="06conditionals.php"> 06 - conditionals</a><br> <br>
   <a href="07arrays.php"> 06 - Tableau</a><br> <br>
+  <a href="08loops.php"> 06 - Les boucles</a><br> <br>
 A                         B
 <pre>A                              B </pre>
 
