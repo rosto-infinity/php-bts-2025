@@ -95,7 +95,7 @@ echo '</pre>';
 // Utilisation des fonctions filter, map et reduce
 $numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 
-// Filtrer les nombres pairs
+// -Filtrer les nombres pairs
 $evens = array_filter($numbers, fn($n) => $n % 2 === 0);
 echo '<pre>';
 var_dump($evens);
