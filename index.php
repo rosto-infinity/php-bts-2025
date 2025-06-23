@@ -9,6 +9,13 @@
   <h1> Introduction à PHP</h1>
 
   <a href="index.php">Cours-php-bts 2025</a> <br> <br>
-  <a href="01datatype.php">Les types de données en PHP</a><br> <br>
+  <a href="01datatype.php"> 01 - Les types de données en PHP</a><br> <br>
+  <a href="02variable.php"> 02 - Variable</a><br> <br>
+  <a href="03numbers.php"> 03 - Les nombres</a><br> <br>
+  <a href="06conditionals.php"> 06 - conditionals</a><br> <br>
+  <a href="07arrays.php"> 06 - Tableau</a><br> <br>
+A                         B
+<pre>A                              B </pre>
+
 </body>
 </html>
